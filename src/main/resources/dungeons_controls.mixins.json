@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.yyz.controls.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "CameraMixin",
+    "ChunkRendererRegionMixin",
+    "ClientPlayerEntityMixin",
+    "GameOptionsMixin",
+    "GameRendererAccessor",
+    "GameRendererMixin",
+    "InGameHudMixin",
+    "KeyboardInputMixin",
+    "MinecraftClientMixin",
+    "MouseMixin",
+    "SoundListenerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "EntityRenderDistanceMixin"
+  ]
+}

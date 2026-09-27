@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "dungeons_controls",
+	"version": "${version}",
+	"name": "Dungeons Controls",
+	"description": "Minecraft Dungeons style click to move, targeting, camera and occlusion fading for Fabric 1.21.1.",
+	"authors": [
+		"yyz729"
+	],
+	"license": "MIT",
+	"icon": "assets/dungeons_controls/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.yyz.controls.DungeonsControlsClient"
+		]
+	},
+	"mixins": [
+		"dungeons_controls.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
