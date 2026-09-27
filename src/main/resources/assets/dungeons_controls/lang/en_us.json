@@ -1,0 +1,8 @@
+{
+	"key.categories.dungeons_controls": "Dungeons Controls",
+	"key.dungeons_controls.toggle": "Toggle Dungeons Mode",
+	"key.dungeons_controls.snap_iso": "Snap to Isometric View",
+	"key.dungeons_controls.swim_mode": "Toggle Swim Mode",
+	"dungeons_controls.swim_mode.on": "Swim height lock: ON",
+	"dungeons_controls.swim_mode.off": "Swim height lock: OFF"
+}

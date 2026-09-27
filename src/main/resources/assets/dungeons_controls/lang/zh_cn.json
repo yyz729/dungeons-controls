@@ -1,0 +1,8 @@
+{
+	"key.categories.dungeons_controls": "地下城控制",
+	"key.dungeons_controls.toggle": "切换地下城模式",
+	"key.dungeons_controls.snap_iso": "对齐等距视角",
+	"key.dungeons_controls.swim_mode": "切换游泳模式",
+	"dungeons_controls.swim_mode.on": "游泳高度锁定：开",
+	"dungeons_controls.swim_mode.off": "游泳高度锁定：关"
+}
